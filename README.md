@@ -9,7 +9,6 @@ I enjoy working with Node.js and C++.<br>
 Feel free to contact me for any job opportunity or any collaboration!<br>
 
 <!-- Learned languages/frameworks/technologies -->
-<!-- since when images goes next line 😭🙏 -->
 <details open>
 <summary><ins>Languages and frameworks learned</ins></summary>   
 - HTML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="30" height="30" align="center"/><br>
@@ -30,13 +29,15 @@ Feel free to contact me for any job opportunity or any collaboration!<br>
 - Docker <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" width="30" height="30" align="center"><br>
 </details>
 
-<p align="center">
 <!-- Github stats -->
-<img src="https://github-stats-extended.vercel.app/api?username=Mokona59&rank_icon=default&hide_rank=true&show_icons=true&include_all_commits=true&theme=github_dark" alt="Mokona59's GitHub stats">
-<img src="https://github-stats-extended.vercel.app/api/top-langs?username=Mokona59&layout=compact&langs_count=20&theme=github_dark" alt="Mokona59's GitHub languages stats"><br><br>
+<div align="center" style="display:flex; justify-content:center; align-items:center; gap:10px;">
+  <img src="https://github-stats-extended.vercel.app/api?username=Mokona59&rank_icon=default&hide_rank=true&show_icons=true&include_all_commits=true&theme=github_dark" height="190">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Mokona59&layout=compact&langs_count=8&theme=github_dark" height="190"><br><br>
+
 <!-- Ko-fi button -->
-<a href="https://ko-fi.com/mokona59"><img src="https://ko-fi.com/img/githubbutton_sm.svg"></a><br><br>
-</p>
+  <a href="https://ko-fi.com/mokona59"><img src="https://ko-fi.com/img/githubbutton_sm.svg"></a><br><br>
+</div>
+
 <!-- Custom typing text -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+10&size=30&pause=500&color=FFFFFF&width=500&height=31&lines=Node.JS+developer;C%2B%2B+developer;Check+my+repos!;Geometry+Dash+enjoyer;Uhh+what+am+I+supposed+to+say...;If+you+stayed+here+this+long,+do+leave+a+follow!" alt="Typing SVG"></a>
 
