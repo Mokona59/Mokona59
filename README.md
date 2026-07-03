@@ -12,22 +12,22 @@ Feel free to contact me for any job opportunity or any collaboration!<br>
 <!-- since when images goes next line 😭🙏 -->
 <details open>
 <summary><ins>Languages and frameworks learned</ins></summary>   
-- HTML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="30" height="30" align="center"/>
-- CSS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="30" height="30" align="center"/>
-- JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30" height="30" align="center"/>
-- Python <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" height="30" align="center"/>
-- C++ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="30" height="30" align="center"/>
-- Node.JS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="30" height="30" align="center"/>
+- HTML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="30" height="30" align="center"/><br>
+- CSS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="30" height="30" align="center"/><br>
+- JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30" height="30" align="center"/><br>
+- Python <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" height="30" align="center"/><br>
+- C++ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="30" height="30" align="center"/><br>
+- Node.JS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="30" height="30" align="center"/><br>
 - Symfony <img src="https://symfony.com/favicons/favicon.svg" width="30" height="30" align="center"/>
 </details>
 
 <!-- What next languages/frameworks/technologies -->
 <details>
 <summary><ins>What next ?</ins></summary>
-- React <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30" height="30" align="center">
-- Vue.JS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="30" height="30" align="center">
-- Haxe <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haxe/haxe-original.svg" width="30" height="30" align="center">
-- Docker <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" width="30" height="30" align="center">
+- React <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30" height="30" align="center"><br>
+- Vue.JS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="30" height="30" align="center"><br>
+- Haxe <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haxe/haxe-original.svg" width="30" height="30" align="center"><br>
+- Docker <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" width="30" height="30" align="center"><br>
 </details>
 
 <p align="center">
