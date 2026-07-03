@@ -32,8 +32,8 @@ Feel free to contact me for any job opportunity or any collaboration!<br>
 
 <p align="center">
 <!-- Github stats -->
-<img src="https://raw.githubusercontent.com/Mokona59/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="Mokona59's GitHub stats">
-<img src="https://raw.githubusercontent.com/Mokona59/github-stats/refs/heads/master/generated/languages.svg#gh-dark-mode-only" alt="Mokona59's GitHub languages stats"><br><br>
+<img src="https://github-stats-extended.vercel.app/api?username=Mokona59&rank_icon=default&hide_rank=true&show_icons=true&include_all_commits=true&theme=github_dark" alt="Mokona59's GitHub stats">
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=Mokona59&layout=compact&langs_count=20&theme=github_dark" alt="Mokona59's GitHub languages stats"><br><br>
 <!-- Ko-fi button -->
 <a href="https://ko-fi.com/mokona59"><img src="https://ko-fi.com/img/githubbutton_sm.svg"></a><br><br>
 </p>
